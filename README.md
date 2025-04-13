@@ -23,7 +23,8 @@ This project analyzes cancer trends across different demographics and geographie
 
 ## 📥 How to View
 Download and open the `.pptx` or Power BI report file here:
-[📎 Cancer Analytics Dashboard Final Project (PPTX)](files/Cancer%20Analytics%20Dashboard%20Final%20Project.pptx)
+[📎 Cancer Analytics Dashboard Final Project (PPTX) [Microsoft-Power-BI-Storytelling.pptx](https://github.com/user-attachments/files/19727033/Microsoft-Power-BI-Storytelling.pptx)
+
 
 ---
 
